@@ -1,2 +1,2 @@
-# managerLibrary
-Projeto de gerenciamento de biblioteca
+# bookStore_manager
+Projeto de gerenciamento de uma livraria
